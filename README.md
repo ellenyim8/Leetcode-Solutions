@@ -12,6 +12,15 @@ Given an array of integers nums sorted in non-decreasing order, find the startin
 If target is not found in the array, return [-1, -1]. </br>
 You must write an algorithm with O(log n) runtime complexity. </br>
 
+# Valid Sudoku
+Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be validated according to the following rules: </br>
+1. Each row must contain the digits 1-9 without repetition. </br>
+2. Each column must contain the digits 1-9 without repetition. </br>
+3. Each of the nine 3 x 3 sub-boxes of the grid must contain the digits 1-9 without repetition. </br>
+
+# Multiply Strings
+Given two non-negative integers num1 and num2 represented as strings, return the product of num1 and num2, also represented as a string. </br>
+
 # Check Permutations
 Given 2 strings, check if they are permutations of each other.  </br>
 
